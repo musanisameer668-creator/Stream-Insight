@@ -162,7 +162,8 @@ This microproject demonstrates:
 ## 👨‍💻 Developed By
 
 **Mohammad Sameer Musani**
-**DHAIRYA SIYAL **
+
+**DHAIRYA SIYAL**
 
 * 🎓 B.Tech Computer Engineering (SAKEC)
 * 💻 Frontend & Analytics Enthusiast
