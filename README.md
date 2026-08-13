@@ -163,7 +163,7 @@ This microproject demonstrates:
 
 **Mohammad Sameer Musani**
 
-**DHAIRYA SIYAL**
+**Dhairya Siyal**
 
 * 🎓 B.Tech Computer Engineering (SAKEC)
 * 💻 Frontend & Analytics Enthusiast
